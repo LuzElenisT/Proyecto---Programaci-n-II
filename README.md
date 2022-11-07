@@ -1,3 +1,3 @@
 # Proyecto---Programaci-n-II
 Sistema de monitoreo de rutas - buses
-#Abrir la carpeta en VisualStudiocode 
+#descomprimir la carpeta zip y abrir desde Visual studio code 
